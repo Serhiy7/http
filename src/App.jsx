@@ -9,3 +9,6 @@ function App() {
 export default App;
 
 https://pokeapi.co/api/v2/pokemon/имя_покемона
+
+https://pokeapi.co/api/v2/pokemon/имя_покемона
+https://pokeapi.co/api/v2/pokemon/имя_покемона
